@@ -126,3 +126,21 @@ border-radius: 4px;
 padding: 12px 8px;
 
 }
+
+h3 {
+  font-family: 'Inter' 'San serif';
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 52px;
+  color: #172b4d;
+}
+
+.about-p {
+  margin: 0 200px 24px 200px;
+  font-family: Inter;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+}
